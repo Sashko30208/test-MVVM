@@ -1,0 +1,8 @@
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.csprojAssemblyReference.cache
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\MainWindow.g.cs
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\View\CustomerListView.g.cs
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\View\OrderView.g.cs
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\App.g.cs
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.cache
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.lref
+C:\Users\al\source\repos\MVVMHierarchiesDemo\MVVMHierarchiesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
